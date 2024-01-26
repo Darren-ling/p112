@@ -1,0 +1,38 @@
+#title1{
+    background-color: cyan;
+    color: cornsilk;
+    width: max-content;
+    padding: 10px;
+    border-radius: 10px;
+}
+body{
+    background-color: yellowgreen;
+    font-family: 'Playfair Display', serif;
+}
+#div1{
+    float:left;
+}
+#div_camera{
+    height: 350px;
+    width: 350px;
+    border:6px black dashed;
+}
+#button1{
+    background-color:orangered ;
+    color: yellow;
+    font-weight: bold;
+}
+#div2{
+    float:right;
+}
+#div_snapshot{
+    height: 350px;
+    width: 350px;
+    border:6px black dashed;
+}
+#button2{
+    background-color:orangered ;
+    color: yellow;
+    font-weight: bold;
+
+}
